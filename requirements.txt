@@ -1,4 +1,4 @@
-python-telegram-bot==21.6
-python-dotenv
-openai
-google-generativeai
+fastapi
+uvicorn
+python-binance==1.0.19
+pydantic
